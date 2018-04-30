@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Abacus Good Health Gateway Threat Model",
+    "owner": "Qinhe Zheng",
+    "description": "Good Health Gateway and Good Health Gateway admin portal is an internet-facing web application hosted on Azure with an Azure SQL Database back end."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "GHG Data Flow Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
